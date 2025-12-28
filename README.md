@@ -1,5 +1,5 @@
 ## Hi, I'm Selva Sejin 👋
-Full Stack Developer | Frontend-focused | IoT & Automation background
+Full Stack Developer | Frontend & Backend-focused 
 
 - 💻 Building responsive web applications using HTML, CSS, JavaScript
 - ⚙️ Experience with Python, Java, SQL, Selenium
