@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Selva Sejin 👋
+Full Stack Developer | Frontend-focused | IoT & Automation background
 
-<!--
-**selvasejin/selvasejin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Building responsive web applications using HTML, CSS, JavaScript
+- ⚙️ Experience with Python, Java, SQL, Selenium
+- 🛠️ Hands-on IoT installation & field troubleshooting
+- 🚀 Interested in frontend-heavy full stack roles
 
-Here are some ideas to get you started:
+### 🔗 Live Projects
+- FlexiRide – Vehicle Rental Platform  
+- Restaurant Website  
+- Personal Portfolio  
+- Responsive Resume Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+- Email: selvasejinm@gmail.com
+- LinkedIn: https://linkedin.com/in/selvasejin
